@@ -1,1 +1,1 @@
-0x01-git readme.md
+ This is my first directory in alx-pre course
